@@ -1,1 +1,1 @@
-worker: python3.5 run.py
+worker: python3.7 run.py
