@@ -3,3 +3,4 @@ discord.py[voice]==1.2.5
 pip
 youtube_dl
 colorlog
+psycopg2==2.6.1
